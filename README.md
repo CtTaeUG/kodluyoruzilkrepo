@@ -16,4 +16,4 @@ code .
 # Contributing
 Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz.
 # License
-MIT[link](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
