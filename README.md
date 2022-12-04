@@ -11,7 +11,7 @@ Oncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldiginiz link gelecek)
 Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz.
 Linux icin
 ```cd kodluyoruzilkrepo
-code .
+code .```
 # Contributing
 ---
 Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz.
